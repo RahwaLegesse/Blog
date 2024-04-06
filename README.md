@@ -28,5 +28,8 @@ When I was At compus  almost all my Friends ware software Engineering students.<
 ### we learn a lot of things from the website
   like java Script is you website easy.
 ### What you might do differently?
-Implement smart notifications that remind users to take necessary actions based on weather conditions.<br> For instance, notifying users to carry an umbrella if rain is expected or advising precautions against extreme heat.<br> And Offer users the ability to explore past and future weather conditions through interactive maps.
+Implement smart notifications that remind users to take necessary actions based on weather conditions.<br> For instance, notifying users to carry an umbrella if rain is expected or advising precautions against extreme heat.<br> And Offer users the ability to explore past and future weather conditions through interactive maps.<br>
+We have learnt as an Engineer like practice makes perfect.<br>
+**With all the consistency and practices I will be a software engineer**
+
 

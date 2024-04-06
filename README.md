@@ -25,7 +25,8 @@ When I was At compus  almost all my Friends ware software Engineering students.<
  * **The website is easy for users to access.it has not login(logout)part.so it takes little time to understand and access**
    ## Technical Challenges we faced
    After we finish our front end part, we decide to go fetching of data from ApI sources like Api open weathermap.<br>then we enter to the website of Api weathermap and we create Account first and verify our email. <br>Then we create key value after that we go to the ApI and we select the Current Weather Data API DOC.After we enter to that page <br>we need to select the Api with city name, but there was no Api call with city name.<br> But we watch a lot of videos with the page of Api call with city name. so this was one of our first technical challenge.<br> But we continue using with longitude and latitude of the city to get the data of the cities temperature, pressure,<br> speed, humidty and others using the images of the above lists features. <br>So we copy the Api call and the keyvalue and we toke these values to the browser. We never realized that<br> it takes about 15 minute to fetch API data. We thought that was error and we tried to solve it.that was very challenging until we got sources from YouTube
-   **we learn a lot of things from the website**
+### we learn a lot of things from the website
   like java Script is you website easy.
-**What you might do differently?** Implement smart notifications that remind users to take necessary actions based on weather conditions.<br> For instance, notifying users to carry an umbrella if rain is expected or advising precautions against extreme heat.<br> And Offer users the ability to explore past and future weather conditions through interactive maps.
+### What you might do differently?
+Implement smart notifications that remind users to take necessary actions based on weather conditions.<br> For instance, notifying users to carry an umbrella if rain is expected or advising precautions against extreme heat.<br> And Offer users the ability to explore past and future weather conditions through interactive maps.
 

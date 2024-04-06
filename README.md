@@ -10,8 +10,8 @@ When I was At compus  almost all my Friends ware software Engineering students.<
 <img width="345" alt="Screenshot 2024-04-04 142857" src="https://github.com/RahwaLegesse/Blog/assets/123195251/6b584b8e-833b-40ea-b6c3-b6d85fdfb7c0">
 <img width="338" alt="Screenshot 2024-04-04 144432" src="https://github.com/RahwaLegesse/Blog/assets/123195251/b7fcbde9-3c52-4143-8f41-2310ac7df5b6">
 ###      we use the following Technologies for our portofilo project
-######For the Frontend we chose to use HTML,CSS and JavaScript<br>
-######or the backend part we use Javascript and API<br>
-######and we use user Interface(UI) and user Experience(UX)<br>
-######after we finish working the project we will use Tester
+###### For the Frontend we chose to use HTML,CSS and JavaScript<br>
+###### For the backend part we use Javascript and API<br>
+###### we use user Interface(UI) and user Experience(UX)<br>
+###### after we finish working the project we will use Tester
 

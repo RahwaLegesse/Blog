@@ -20,8 +20,8 @@ When I was At compus  almost all my Friends ware software Engineering students.<
  **- we use user Interface(UI) and user Experience(UX)<br>**
  **- after we finish working the project we will use Tester**
  ## overview of features we’ve completed
- ***The website is responsive and compatible with mobile.This means users can access the project from a mobile view.**
- ***The website works for all locations of the world.**
- ***The website is easy for users to access.it has not login(logout)part.so it takes little time to understand and access**
+ * **The website is responsive and compatible with mobile.This means users can access the project from a mobile view.<br>**
+ * **The website works for all locations of the world.<br>**
+ * **The website is easy for users to access.it has not login(logout)part.so it takes little time to understand and access**
 
 

@@ -2,7 +2,7 @@
 
 
 <p align="center"><img width="939" alt="Screenshot 2024-04-06 103023" src="https://github.com/RahwaLegesse/Blog/assets/123195251/47064d7a-4064-40e3-a62f-81a8fc7e6b1c">
-195251/f573e416-00af-4d5a-a9d5-fd8b1fb84fdf"></p>
+</p>
 
 
 

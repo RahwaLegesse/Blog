@@ -3,7 +3,5 @@
 
 
         
-        
-        This project helps users to stay informed about weather conditions and make better decisions based on that information<br>
-        and The team members are Esayas Aregawi and Rahwa Legesse <br>since the project is mainly focused on front end design 
-        we worked together as a team. <br>Thus uses for all customers over the world 
+        This project helps users to stay informed about weather conditions and make better decisions based on that information<br>and The team members are Esayas Aregawi and Rahwa Legesse <br>since the project is mainly focused on front end design 
+we worked together as a team. <br>Thus uses for all customers over the world 
